@@ -1,0 +1,9 @@
+c:\users\felipe\documents\visual studio 2010\Projects\fibonacci\Main\bin\Release\Main.exe
+c:\users\felipe\documents\visual studio 2010\Projects\fibonacci\Main\bin\Release\Main.pdb
+c:\users\felipe\documents\visual studio 2010\Projects\fibonacci\Main\bin\Release\C++.dll
+c:\users\felipe\documents\visual studio 2010\Projects\fibonacci\Main\bin\Release\CSharp.dll
+c:\users\felipe\documents\visual studio 2010\Projects\fibonacci\Main\bin\Release\C++.pdb
+c:\users\felipe\documents\visual studio 2010\Projects\fibonacci\Main\bin\Release\CSharp.pdb
+c:\users\felipe\documents\visual studio 2010\Projects\fibonacci\Main\obj\x86\Release\Main.csprojResolveAssemblyReference.cache
+c:\users\felipe\documents\visual studio 2010\Projects\fibonacci\Main\obj\x86\Release\Main.exe
+c:\users\felipe\documents\visual studio 2010\Projects\fibonacci\Main\obj\x86\Release\Main.pdb
